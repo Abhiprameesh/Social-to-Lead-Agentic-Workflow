@@ -6,8 +6,8 @@ This project is a Conversational AI Agent built for **AutoStream**, a fictional 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd autostream-agent
+   git clone https://github.com/Abhiprameesh/Social-to-Lead-Agentic-Workflow.git
+   cd Social-to-Lead-Agentic-Workflow
    ```
 2. **Install the required dependencies:**
    Make sure you have Python 3.9+ installed.
