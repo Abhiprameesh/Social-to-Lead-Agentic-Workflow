@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-huggingface
+langgraph
+langchain-google-genai
+faiss-cpu
+python-dotenv
+markdown
+sentence-transformers
+google-generativeai
