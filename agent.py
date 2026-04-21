@@ -13,7 +13,7 @@ from langchain_community.vectorstores import FAISS
 def mock_lead_capture(name: str, email: str, platform: str):
     """Mock tool to capture lead data."""
     print("\n" + "="*50)
-    print(f"✅ TOOL EXECUTION: mock_lead_capture()")
+    print(f"TOOL EXECUTION: mock_lead_capture()")
     print(f"Lead captured successfully: {name}, {email}, {platform}")
     print("="*50 + "\n")
 
